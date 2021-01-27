@@ -6,3 +6,5 @@ III year Wroclaw University of Science, Electronics Department, Informatics - Os
 
 ### Technology
 Environment IDE Intellij CLion 2020.3, c++
+
+Projekowanie Efektywnych Algorytmów, Politechnika Wrocławska, Wydział Elektroniki (W4)- Informatyka, 2020
